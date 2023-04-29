@@ -1,4 +1,4 @@
-# CIS-5560_US_USED_CARS_PROJECT
+# CIS_5560_US_USED_CARS_PRICE_PREDICTION_PROJECT
 
 We are Predicting Used car price with Machine Learning models using Spark ML for a US Used Cars Dataset.
 
