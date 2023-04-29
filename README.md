@@ -8,3 +8,5 @@ For our prediction we used variuos machine learning models, which are Linear Reg
 Project code html file link: [file:///Users/anushavalasapalli/Downloads/USA_Used_Car_Dataset_Project%20.html]
 
 [Click here](file:///Users/anushavalasapalli/Downloads/USA_Used_Car_Dataset_Project%20.html) to view the project documentation.
+
+[clcik here](file:///Users/anushavalasapalli/Downloads/USA_Used_Car_Dataset_Project%20.html)
