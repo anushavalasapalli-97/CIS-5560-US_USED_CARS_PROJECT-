@@ -1,7 +1,6 @@
 # CIS_5560_US_USED_CARS_PRICE_PREDICTION_PROJECT
 
-We are Predicting Used car price with Machine Learning models using Spark ML for a US Used Cars Dataset.
+Using advanced Machine Learning algorithms, our project focuses on estimating used car prices and deciding whether or not a consumer is receiving a fair deal. We have used a variety of potent algorithms, such as Logistic Regression, Factorization Machine Regression, Gradient Boost Tree Regression, Random Forest Regression, and Linear Regression. Our models can precisely predict the used car's price by examining important details like the year, mileage, and number of prior owners.
 
-For our prediction we used variuos machine learning models, which are Linear Regression, Random Forest Regression, Gradient Boost Tree Regression, Decision Tree Classifier to predict the used car price based on the year, Mileage, Owners count..etc
-
+We have created a comprehensive system that can offer trustworthy forecasts for customers interested in buying used cars through in-depth data analysis and model training. Our models ensure a high level of accuracy in estimating the appropriate price range by considering various elements that affect the car's value.
 
